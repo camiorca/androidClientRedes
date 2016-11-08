@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LabRedes</string>
+    <string name="ip">Dirección IP</string>
+</resources>
